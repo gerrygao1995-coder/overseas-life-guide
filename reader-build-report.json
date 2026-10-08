@@ -1,0 +1,204 @@
+{
+  "countries": {
+    "US": {
+      "expected_entries": 200,
+      "parsed_entries": 200,
+      "sections": 44,
+      "expected_chapters": 40,
+      "parsed_chapters": 40
+    },
+    "AU": {
+      "expected_entries": 720,
+      "parsed_entries": 720,
+      "sections": 51,
+      "expected_chapters": 40,
+      "parsed_chapters": 40
+    },
+    "KR": {
+      "expected_entries": 274,
+      "parsed_entries": 274,
+      "sections": 45,
+      "expected_chapters": 36,
+      "parsed_chapters": 36
+    },
+    "JP": {
+      "expected_entries": 768,
+      "parsed_entries": 768,
+      "sections": 53,
+      "expected_chapters": 48,
+      "parsed_chapters": 48
+    }
+  },
+  "unassigned_chapters": [],
+  "duplicate_anchors": [],
+  "depth_manuals": [
+    {
+      "country": "US",
+      "file": "US-visa.md",
+      "questions": 22,
+      "han_characters": 7866,
+      "anchor": "us-depth-visa"
+    },
+    {
+      "country": "US",
+      "file": "US-housing.md",
+      "questions": 22,
+      "han_characters": 7743,
+      "anchor": "us-depth-housing"
+    },
+    {
+      "country": "US",
+      "file": "US-work.md",
+      "questions": 20,
+      "han_characters": 6955,
+      "anchor": "us-depth-work"
+    },
+    {
+      "country": "US",
+      "file": "US-health.md",
+      "questions": 20,
+      "han_characters": 6601,
+      "anchor": "us-depth-health"
+    },
+    {
+      "country": "US",
+      "file": "US-tax.md",
+      "questions": 20,
+      "han_characters": 6983,
+      "anchor": "us-depth-tax"
+    },
+    {
+      "country": "US",
+      "file": "US-travel.md",
+      "questions": 20,
+      "han_characters": 7111,
+      "anchor": "us-depth-travel"
+    },
+    {
+      "country": "AU",
+      "file": "AU-visa.md",
+      "questions": 22,
+      "han_characters": 7436,
+      "anchor": "au-depth-visa"
+    },
+    {
+      "country": "AU",
+      "file": "AU-housing.md",
+      "questions": 24,
+      "han_characters": 8000,
+      "anchor": "au-depth-housing"
+    },
+    {
+      "country": "AU",
+      "file": "AU-work.md",
+      "questions": 22,
+      "han_characters": 7105,
+      "anchor": "au-depth-work"
+    },
+    {
+      "country": "AU",
+      "file": "AU-health.md",
+      "questions": 24,
+      "han_characters": 8414,
+      "anchor": "au-depth-health"
+    },
+    {
+      "country": "AU",
+      "file": "AU-tax.md",
+      "questions": 26,
+      "han_characters": 9258,
+      "anchor": "au-depth-tax"
+    },
+    {
+      "country": "AU",
+      "file": "AU-travel.md",
+      "questions": 22,
+      "han_characters": 7177,
+      "anchor": "au-depth-travel"
+    },
+    {
+      "country": "KR",
+      "file": "KR-visa.md",
+      "questions": 22,
+      "han_characters": 8984,
+      "anchor": "kr-depth-visa"
+    },
+    {
+      "country": "KR",
+      "file": "KR-housing.md",
+      "questions": 22,
+      "han_characters": 8016,
+      "anchor": "kr-depth-housing"
+    },
+    {
+      "country": "KR",
+      "file": "KR-work.md",
+      "questions": 20,
+      "han_characters": 6620,
+      "anchor": "kr-depth-work"
+    },
+    {
+      "country": "KR",
+      "file": "KR-health.md",
+      "questions": 20,
+      "han_characters": 6361,
+      "anchor": "kr-depth-health"
+    },
+    {
+      "country": "KR",
+      "file": "KR-tax.md",
+      "questions": 20,
+      "han_characters": 6271,
+      "anchor": "kr-depth-tax"
+    },
+    {
+      "country": "KR",
+      "file": "KR-travel.md",
+      "questions": 20,
+      "han_characters": 6304,
+      "anchor": "kr-depth-travel"
+    },
+    {
+      "country": "JP",
+      "file": "JP-visa.md",
+      "questions": 23,
+      "han_characters": 7560,
+      "anchor": "jp-depth-visa"
+    },
+    {
+      "country": "JP",
+      "file": "JP-housing.md",
+      "questions": 25,
+      "han_characters": 7610,
+      "anchor": "jp-depth-housing"
+    },
+    {
+      "country": "JP",
+      "file": "JP-work.md",
+      "questions": 25,
+      "han_characters": 8347,
+      "anchor": "jp-depth-work"
+    },
+    {
+      "country": "JP",
+      "file": "JP-health.md",
+      "questions": 22,
+      "han_characters": 7134,
+      "anchor": "jp-depth-health"
+    },
+    {
+      "country": "JP",
+      "file": "JP-tax.md",
+      "questions": 22,
+      "han_characters": 6912,
+      "anchor": "jp-depth-tax"
+    },
+    {
+      "country": "JP",
+      "file": "JP-travel.md",
+      "questions": 22,
+      "han_characters": 6829,
+      "anchor": "jp-depth-travel"
+    }
+  ]
+}

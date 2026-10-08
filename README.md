@@ -1,60 +1,60 @@
 <div align="center">
 
-<img src="cover.svg" alt="海外生活，少走弯路。中国人在海外的高性价比人生指南" width="100%">
+<img src="cover.svg" alt="中国人在海外的高性价比人生指南" width="100%">
 
 # 中国人在海外的高性价比人生指南
 
 **美国 · 澳大利亚 · 韩国 · 日本**  
-**当地定居华人 / 留学与工作等签证人群 / 旅游与探亲人群**
+当地定居华人 · 留学与工作等签证人群 · 旅游与探亲人群
 
-[直接阅读与搜索](https://gerrygao1995-coder.github.io/overseas-life-guide/) · [选择你的读者路径](START-HERE.md) · [参与共建](CONTRIBUTING.md) · [报告问题](https://github.com/gerrygao1995-coder/overseas-life-guide/issues)
+[打开阅读器](https://gerrygao1995-coder.github.io/overseas-life-guide/) · [身份与起步](START-HERE.md) · [参与共建](CONTRIBUTING.md) · [报告问题](https://github.com/gerrygao1995-coder/overseas-life-guide/issues)
 
 </div>
 
-把散落在四个项目里的生活指南，变成中国读者能判断、能行动、能继续完善的一套中文参考。少花冤枉钱，也少在医保、身份、住房、工作和信息差上走弯路。
+先选国家，再选生活板块，从目录打开具体问题。完整保留四个原项目的 **164 个主题章节、1962 条建议**，新增 **24 册重点手册、527 个问答、177,597 个汉字**。新增内容优先解释签证、住房、工作、医保、税务与旅游的步骤、材料、费用演算、时间安排、案例和问题处理。
 
-本项目以四份国家指南为底稿，翻译正文，并按中国读者的实际处境改写适用条件与行动路径。**不是把当地公民享有的待遇，直接当成所有中国人的待遇。** 每卷先讲身份，再给具体生活建议；不适用的项目注明边界或替代做法。
+## 六个重点板块
 
-## 从所在国家开始
+| 国家 | 新增问答 | 手册 |
+| --- | ---: | --- |
+| 美国 | 124 | [签证](US-visa.md) · [住房](US-housing.md) · [工作](US-work.md) · [医保](US-health.md) · [税务](US-tax.md) · [旅游](US-travel.md) |
+| 澳大利亚 | 140 | [签证](AU-visa.md) · [住房](AU-housing.md) · [工作](AU-work.md) · [医保](AU-health.md) · [税务](AU-tax.md) · [旅游](AU-travel.md) |
+| 韩国 | 124 | [签证](KR-visa.md) · [住房](KR-housing.md) · [工作](KR-work.md) · [医保](KR-health.md) · [税务](KR-tax.md) · [旅游](KR-travel.md) |
+| 日本 | 139 | [签证](JP-visa.md) · [住房](JP-housing.md) · [工作](JP-work.md) · [医保](JP-health.md) · [税务](JP-tax.md) · [旅游](JP-travel.md) |
 
-| 分卷 | 主题章节 | 源项目条目 | 主要内容 |
-| --- | ---: | ---: | --- |
-| [美国](US.md) | 40 | 200 | 医保与账单、就业、信用、税务、住房、教育、家庭与退休 |
-| [澳大利亚](AU.md) | 40 | 720 | Medicare与海外保险、租房、劳动权益、养老金、育儿、日常成本 |
-| [韩国](KR.md) | 36 | 274 | 在留与保险、全租押金、工作、医疗、家庭、养老与行政手续 |
-| [日本](JP.md) | 48 | 768 | 在留、国保与年金、工作、住房、育儿、防灾、交通与生活采购 |
+新增手册按独立问答统计；汉字数量只统计新增手册内容。其他生活主题仍可在原有章节中阅读。
 
-共 **164 个主题、1962 条源项目建议**，另有身份导航、场景清单与沟通模板。这个数字是出版条目数，不代表彼此完全不重复，也不代表人人适用。
+## 阅读方法
 
-## 三类读者，三条起步路线
+1. 打开阅读器，选择国家。
+2. 选择签证与落地、医疗与健康、住房与搬家、工作与学习、钱税与退休、家庭照护、旅行安全、日常权益等板块。
+3. 从章节目录进入问题。深度手册排在前面，原有章节同时保留。
+4. 桌面使用左侧目录，手机使用板块、章节、条目下拉框；也可以用全文搜索直接查词。
+5. 在正文中核对自己的身份条件。收藏保存在本机，可直接回到具体问题；复制链接可分享当前位置。
 
-- **当地定居华人：** 先区分当地公民与保留中国国籍的永久居民，再核对医保、福利、税务、教育和退休条件。
-- **留学、工作、家属等签证读者：** 先核对身份条件、允许的工作、保险与租约期限，再做长期消费与生活规划。
-- **旅游、探亲等短期访客：** 先处理入境、旅行医疗保障、住宿交通、付款与应急；不把居民福利当旅行预算。
+当地公民、中国籍永久居民、临时签证者、短期访客的路径分别说明。国籍、居留、工作授权、税务居民、医保和福利资格须分别核对。选择身份帮助阅读，不能代替机构对个人资格的判断。
 
-“华人”是文化或族裔描述，不是法律资格。国籍、移民身份、税务居民、保险参保身份、地方居住条件需要分别判断。每卷均有面向中国读者的身份入口，并将相关边界写进条目。
+“保存离线版”可下载包含全部正文的 `index.html`，打开即可离线搜索和阅读；外部来源需要联网。原来的章节与条目书签仍然可以访问。Github长篇Markdown可能省略显示，请使用阅读器或下载正文。
 
-## 怎么读、怎么用
+## 原有四国分卷
 
-1. 打开[身份起步页](START-HERE.md)，再进所在国家分卷。
-2. 在[在线阅读器](https://gerrygao1995-coder.github.io/overseas-life-guide/)按国家或中文关键词找章节；支持本机收藏与打印展开的章节。
-3. 先读该条“适用对象/中国读者怎么用”，再看行动、成本、限制和出处。
-4. 重要规则点击官方来源复核。一次做一个与你有关的动作，不需要照单全做。
+| 分卷 | 原有章节 | 原有条目 |
+| --- | ---: | ---: |
+| [美国](US.md) | 40 | 200 |
+| [澳大利亚](AU.md) | 40 | 720 |
+| [韩国](KR.md) | 36 | 274 |
+| [日本](JP.md) | 48 | 768 |
 
-下载仓库后直接打开 `index.html` 可离线阅读全部正文；来源网站仍需联网。收藏保存在自己的浏览器中，不会上传。GitHub长篇Markdown的显示可能有限，完整内容可下载或使用阅读器。
+原有分卷与新增手册独立维护，在网站中合并检索。具体收录与哈希记录在 [manifest.json](manifest.json)，导航和链接检查结果见 [reader-build-report.json](reader-build-report.json)。
 
-## 来源、范围与质量
+## 来源与开放协作
 
-四个底稿为 [The American Life Playbook](https://github.com/gerrygao1995-coder/the-american-life-playbook)、[Live Better Australia](https://github.com/gerrygao1995-coder/live-better-australia)、[대한민국 생활 치트키](https://github.com/gerrygao1995-coder/better-life-korea)、[くらしの判断帖](https://github.com/gerrygao1995-coder/japan-life-playbook)。它们都受到 [HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) 的启发或改编。完整署名与变更见 [ATTRIBUTION.md](ATTRIBUTION.md)。
+以 Gerry 的 [美国](https://github.com/gerrygao1995-coder/the-american-life-playbook)、[澳大利亚](https://github.com/gerrygao1995-coder/live-better-australia)、[韩国](https://github.com/gerrygao1995-coder/better-life-korea)、[日本](https://github.com/gerrygao1995-coder/japan-life-playbook) 四个项目为底稿，按中国读者的身份和生活场景翻译、适配并扩写。原作署名见 [ATTRIBUTION.md](ATTRIBUTION.md)，翻译与核验范围见 [TRANSLATION.md](TRANSLATION.md)。
 
-本版整理日期为 **2026-10-09**。采用机器辅助初译与模型校订，做了结构、来源链接、数字和关键术语检查，并为中国读者新增身份路径与官方核对入口；**没有宣称所有正文都经过专业人士逐句审核，或所有来源都在同一天重新核实。** 原项目可能继续更新，具体快照与覆盖数见 [manifest.json](manifest.json)，检查范围见 [TRANSLATION.md](TRANSLATION.md)。
+新增手册编辑于2026-10-09。政策和价格会变化，正文中的假设预算不是市场报价；应按地方、签证、家庭和保险条件查阅随文官方入口。没有宣称专业人士逐句审核全部内容或所有链接均可在同一天访问。
 
-本指南提供通用参考，不作个体资格判断，也不替代医疗诊断、移民、税务或法律服务。价格、政策和资格随地点与时间变化；先看条件，再行动。
+欢迎通过 Issue 和 Pull Request 修订，附国家、问题、适用身份、官方依据和日期。正文、翻译与改编 **CC BY 4.0**，阅读器与构建代码 **MIT**。请保留来源、署名和变更说明；第三方资料与商标保留其权利。
 
-## 开放协作
+维护：编辑四国分卷或 `国家代码-主题.md`，运行 `python build_reader.py` 即可生成离线阅读页。无需安装依赖。改动正式条目时同步更新manifest。原始工作稿与署名资料见 `source-chapters.zip`。
 
-欢迎用 Issue 提交问题、用 Pull Request 修订。请注明国家、条目、适用身份、官方出处与核对日期，不要在公开仓库放护照、病历、账单或其他私人资料。参见 [贡献指南](CONTRIBUTING.md)。
-
-正文、翻译与改编采用 **CC BY 4.0**；本仓库阅读器及构建脚本采用 **MIT**。允许按许可分享与改编，保留署名、来源和改动说明即可。第三方链接内容、名称与商标仍归各权利人所有。详情：[LICENSE](LICENSE)、[LICENSE-CODE](LICENSE-CODE)。
-
-维护方式：修改 `US.md`、`AU.md`、`KR.md` 或 `JP.md`，运行 `python build_reader.py` 更新阅读器。新增或删除正式条目时同步更新 `manifest.json`。分章工作稿与原始署名资料另附于 `source-chapters.zip`，便于逐项追溯。
+其他独立版本：[日本人日文版](https://github.com/gerrygao1995-coder/japanese-overseas-life-guide) · [韩国人韩文版](https://github.com/gerrygao1995-coder/korean-overseas-life-guide)。两版分别排除日本和韩国。

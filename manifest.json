@@ -281,5 +281,189 @@
       },
       "archive_path": "countries/japan/"
     }
-  ]
+  ],
+  "reader_version": 2,
+  "depth_expansion": {
+    "edited": "2026-10-09",
+    "subjects": [
+      "签证",
+      "住房",
+      "工作",
+      "医疗保险",
+      "税务",
+      "旅游"
+    ],
+    "manuals": [
+      {
+        "country": "AU",
+        "file": "AU-health.md",
+        "questions": 24,
+        "han_characters": 8414,
+        "sha256": "6bf2a4dcd8a682decec61f5c2397bbfc3b9f2582432316efba12352b1ff0d2d4"
+      },
+      {
+        "country": "AU",
+        "file": "AU-housing.md",
+        "questions": 24,
+        "han_characters": 8000,
+        "sha256": "ad416d940010f237784c8cbd04058a70fc1f9a7ed3b3955bb832ebad779bbaf7"
+      },
+      {
+        "country": "AU",
+        "file": "AU-tax.md",
+        "questions": 26,
+        "han_characters": 9258,
+        "sha256": "ce37a8de4a02c0d81326c47c00b9534def7fb21e6b557360ec10d6d33b814721"
+      },
+      {
+        "country": "AU",
+        "file": "AU-travel.md",
+        "questions": 22,
+        "han_characters": 7177,
+        "sha256": "e06774873dca62c2cdc96df2f64f1f005a5b61494099b3cbba2dc6aa62bd3245"
+      },
+      {
+        "country": "AU",
+        "file": "AU-visa.md",
+        "questions": 22,
+        "han_characters": 7436,
+        "sha256": "78b9ac75ce5f831a2349bb8c49c7cc353faae88b5fa5243b05a036ee58f515d3"
+      },
+      {
+        "country": "AU",
+        "file": "AU-work.md",
+        "questions": 22,
+        "han_characters": 7105,
+        "sha256": "67f8868e39ece940be3e32f5947a07ead29b2ae63a59ed03e4653a8235389251"
+      },
+      {
+        "country": "JP",
+        "file": "JP-health.md",
+        "questions": 22,
+        "han_characters": 7134,
+        "sha256": "800b5d19d2ea404573d6f89d7b8e971f1246194b619d0930781f5d88ff34d5b9"
+      },
+      {
+        "country": "JP",
+        "file": "JP-housing.md",
+        "questions": 25,
+        "han_characters": 7610,
+        "sha256": "d050e48470e359e24aa6d4257bc8ce15719b308ac74cad3d1cfbbf489ad30754"
+      },
+      {
+        "country": "JP",
+        "file": "JP-tax.md",
+        "questions": 22,
+        "han_characters": 6912,
+        "sha256": "622b2c492a4c8457ad340f90cc8a0ff2e204218ff19270f34e997fb5f0a14d82"
+      },
+      {
+        "country": "JP",
+        "file": "JP-travel.md",
+        "questions": 22,
+        "han_characters": 6829,
+        "sha256": "3a037bd4b29e0a6db2cf12ea985fa136afd32c072f4840ccf1dfdd8c25f0412f"
+      },
+      {
+        "country": "JP",
+        "file": "JP-visa.md",
+        "questions": 23,
+        "han_characters": 7560,
+        "sha256": "6a92d5fc5668f477149ead3970540dab1de95fba2d4b8b3663a3be549ebc9786"
+      },
+      {
+        "country": "JP",
+        "file": "JP-work.md",
+        "questions": 25,
+        "han_characters": 8347,
+        "sha256": "fe6437c665fff55b6a8d8991a40ca55a10b1a5d4cc188492328cea4d5e191336"
+      },
+      {
+        "country": "KR",
+        "file": "KR-health.md",
+        "questions": 20,
+        "han_characters": 6361,
+        "sha256": "c4daf79eb9cce233a7cb860d25644b2d18efa6586fd5ab7f9b06d1098f8287bc"
+      },
+      {
+        "country": "KR",
+        "file": "KR-housing.md",
+        "questions": 22,
+        "han_characters": 8016,
+        "sha256": "141f6510f95453f9181869edfe744c9fd341b8f10a306c92071ea78a0247790c"
+      },
+      {
+        "country": "KR",
+        "file": "KR-tax.md",
+        "questions": 20,
+        "han_characters": 6271,
+        "sha256": "0eece81c9fce0c85785ad03ba2a5f948996854f6d61ea070b9ac1e1877f73983"
+      },
+      {
+        "country": "KR",
+        "file": "KR-travel.md",
+        "questions": 20,
+        "han_characters": 6304,
+        "sha256": "736cc3542e93ae1093d2c9b6285fa77c62c194af343e167142dd7d9596e963e3"
+      },
+      {
+        "country": "KR",
+        "file": "KR-visa.md",
+        "questions": 22,
+        "han_characters": 8984,
+        "sha256": "744e74e02b4e2419bfb2a566a98cea0eb152bce2cd4498a7e1d147fd223b3f75"
+      },
+      {
+        "country": "KR",
+        "file": "KR-work.md",
+        "questions": 20,
+        "han_characters": 6620,
+        "sha256": "01c49b6c17e3989d1e80ab2f96b060c5bbc845809fabc64e661a60baa72371fe"
+      },
+      {
+        "country": "US",
+        "file": "US-health.md",
+        "questions": 20,
+        "han_characters": 6601,
+        "sha256": "1b692399b0307e4f1b5d7f9a07b4fb4c74b8130df0821915c3a3a87b9a6a4b6e"
+      },
+      {
+        "country": "US",
+        "file": "US-housing.md",
+        "questions": 22,
+        "han_characters": 7743,
+        "sha256": "53eb7ee579f34acfb863a31cb8ee19bc3bbcdde14d111a3a3bf52c464ab78f64"
+      },
+      {
+        "country": "US",
+        "file": "US-tax.md",
+        "questions": 20,
+        "han_characters": 6983,
+        "sha256": "478063c7562e2dce5c2f709764b8d16e68bd29091221835647d5697ec35e2f63"
+      },
+      {
+        "country": "US",
+        "file": "US-travel.md",
+        "questions": 20,
+        "han_characters": 7111,
+        "sha256": "8c9ba15978891da9a7e3e04ee0eeb83a71abc7667676e137cf17e909472dd418"
+      },
+      {
+        "country": "US",
+        "file": "US-visa.md",
+        "questions": 22,
+        "han_characters": 7866,
+        "sha256": "13ede4d0a08b7779d41bd854cef1522322c0d18f293e59a299d680bb69f989ee"
+      },
+      {
+        "country": "US",
+        "file": "US-work.md",
+        "questions": 20,
+        "han_characters": 6955,
+        "sha256": "2b88de40f80b67da67edfde2253d3917b6ab018127a49b424f92a669a442f3a6"
+      }
+    ],
+    "questions": 527,
+    "han_characters": 177597
+  }
 }
